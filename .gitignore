@@ -1,0 +1,5 @@
+*.exe
+*.exe~
+*.dylib
+id_ed25519_*
+
